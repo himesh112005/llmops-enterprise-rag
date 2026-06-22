@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the main objective of the RAG system?",
+    "ground_truth": "To build an enterprise-grade retrieval-augmented generation system that ensures privacy and minimizes API costs by running components locally."
+  },
+  {
+    "question": "What is the recommended setup for the local environment?",
+    "ground_truth": "The recommended setup is using WSL (Ubuntu) on a Windows machine to effectively manage Docker and CI/CD pipelines."
+  },
+  {
+    "question": "What is the purpose of Phase 3 in the roadmap?",
+    "ground_truth": "Phase 3 focuses on automated evaluation using the RAGAS framework to measure metrics like faithfulness, context precision, and answer relevance."
+  },
+  {
+    "question": "Which technologies are suggested for the frontend?",
+    "ground_truth": "Next.js and Tailwind CSS are recommended for building a clean, ChatGPT-style chat interface."
+  },
+  {
+    "question": "Why is containerization important in Phase 5?",
+    "ground_truth": "Containerization using Docker ensures the project is production-ready, moving it from 'works on my machine' to a deployable enterprise level."
+  }
+]
